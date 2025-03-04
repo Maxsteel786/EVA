@@ -48,6 +48,10 @@ Your health, your way – Experience smarter healthcare with TeleMedPilot! 🏥�
 
 **Built for speed, efficiency, and a stunning user experience!** ✨
 
+video demo
+https://drive.google.com/file/d/1Eq5M3nU6eUEs-WVTKhXhp9p5kDjFGsIj/view?usp=drive_link
+
+
 Set Up Environment:
 
 Create a .env file
